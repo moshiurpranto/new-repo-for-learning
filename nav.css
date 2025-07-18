@@ -1,0 +1,16 @@
+
+nav ul{
+    display: flex;
+    
+}
+nav li{
+    list-style: none;
+    padding-right: 10px;
+
+}
+nav li a{
+    text-decoration: none;
+}
+nav li a:hover{
+    color: aqua;
+}
